@@ -127,3 +127,13 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+
+# Ignore data set
+/yelp_dataset/*.json
+/yelp_dataset/*.pdf
+
+/.idea/yelp-dataset-analysis.iml
+/.idea/misc.xml
+/.idea/modules.xml
+/.idea/inspectionProfiles/profiles_settings.xml
+/.idea/vcs.xml
